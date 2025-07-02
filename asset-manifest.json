@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Keep-It-Simple01/react-calculator-app.git/static/css/main.10d41ca7.css",
+    "main.js": "/Keep-It-Simple01/react-calculator-app.git/static/js/main.d40ef5ab.js",
+    "static/js/453.a6093d54.chunk.js": "/Keep-It-Simple01/react-calculator-app.git/static/js/453.a6093d54.chunk.js",
+    "index.html": "/Keep-It-Simple01/react-calculator-app.git/index.html",
+    "main.10d41ca7.css.map": "/Keep-It-Simple01/react-calculator-app.git/static/css/main.10d41ca7.css.map",
+    "main.d40ef5ab.js.map": "/Keep-It-Simple01/react-calculator-app.git/static/js/main.d40ef5ab.js.map",
+    "453.a6093d54.chunk.js.map": "/Keep-It-Simple01/react-calculator-app.git/static/js/453.a6093d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d41ca7.css",
+    "static/js/main.d40ef5ab.js"
+  ]
+}
