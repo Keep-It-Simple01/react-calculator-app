@@ -33,48 +33,22 @@ A responsive and functional calculator built with **React** and styled using **s
 ## 📦 Getting Started
 
 ### 1. Clone the repo
-
-```bash
 git clone https://Keep_It_Simple01.github/react-calculator-app.git
-cd calculator
+cd react-calculator-app
 
 2. Install dependencies
-bash
-Copy
-Edit
 npm install
+
 3. Run locally
-bash
-Copy
-Edit
 npm start
+
 4. Build for production
-bash
-Copy
-Edit
 npm run build
-🌐 Deployment (GitHub Pages)
-This app is deployed using GitHub Pages.
+🌐 Deployment (Render)
+This app is deployed on render.
 
-Deploy command:
-bash
-Copy
-Edit
-npm run deploy
-Ensure your package.json contains:
 
-json
-Copy
-Edit
-"homepage": "https://your-username.github.io/react-calculator-app",
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-}
 📁 Folder Structure
-bash
-Copy
-Edit
 src/
 ├── App.jsx       # Main calculator component
 ├── App.css       # Styling
