@@ -7,9 +7,7 @@ A responsive and functional calculator built with **React** and styled using **s
 
 ## 🚀 Live Demo
 
-👉 [Click here to view it live](https://Keep_It_Simple01.github.io/react-calculator-app)
-
-> Replace the URL with your actual GitHub Pages deployment link.
+👉 [Click here to view it live](https://react-calculator-app-4akr.onrender.com)
 
 ---
 
